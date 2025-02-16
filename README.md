@@ -7,7 +7,7 @@ https://manipulation.csail.mit.edu/Fall2024/
 
 https://manipulation.csail.mit.edu/Fall2024/schedule.html
 
-Exercise 1.1
+Exercise 1.1\n
 1] 0.9
 2] alpha
 3] 1
